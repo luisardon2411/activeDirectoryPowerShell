@@ -1,7 +1,7 @@
 # Gestion de usuarios de Active Directory  a través de PowerShell😁🤖
 
 ## Metodo de instalacion 🧑‍💻
-- `¿Como descargargo el contenido?`
+- `¿Como descargo el contenido?`
 1. Ubicarse en el boton de  **<>Code**  que aparece al inicio del repositorio
 2. Luego en Download zip
 
