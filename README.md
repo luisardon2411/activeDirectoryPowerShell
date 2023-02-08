@@ -22,11 +22,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 - Abrir PowerShell y ubicarse en la carpeta donde se guardo el archivo AD.ps1
 **( Como ejemplo se tomara la ubicación en la unidad C: )**
 ```powershell 
-PS C:\activeDirectoryPowerShell\>
+PS C:\activeDirectoryPowerShell\change_unlock_AD>
 ```
 - Ejecutar lo siguiente presionando la tecla *Enter*
 ```powershell
-PS C:\activeDirectoryPowerShell\> .\AD.ps1
+PS C:\activeDirectoryPowerShell\change_unlock_AD> .\AD.ps1
 ```
 #### Nota adicional: ⚠️
 - Si aun no se han realizado los pasos indicados en metodo de instalacion, No se podrá ejecutar correctamente el script. Esto debido a una directiva de ejecución
